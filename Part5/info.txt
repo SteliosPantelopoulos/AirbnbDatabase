@@ -1,7 +1,0 @@
-Παντελόπουλος Στυλιανός - 3180142
-Αποστολόπουλος Θεμιστοκλής - 3180013
-
-Endpoint: airbnbdatabase.cwnfrmplrzze.us-east-1.rds.amazonaws.com
-Username: examiner
-Password: examiner
-Database: Airbnb_database
